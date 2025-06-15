@@ -51,7 +51,7 @@ Dataset: Uses laptop_data.csv, which contains laptop specifications and their pr
 
 🔗 Live Deployment
 
-The application is deployed on Render for public access. Click here: https://laptop-price-predictor-mhp.onrender.com
+The application is deployed on Render for public access. Click here: https://laptop-price-predictor-ss.onrender.com
 
 🤝 Contribution
 
