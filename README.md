@@ -2,7 +2,7 @@
 
 Accurately Predict Laptop Prices Using Machine Learning
 
-🔗 Repository: MasterSailor10/laptop_price_predictor_p
+🔗 Repository: MasterSailor10/laptop_price_predictor_s
 
 🚀 Overview
 
@@ -14,7 +14,7 @@ The Laptop Price Predictor is a machine learning-based web application designed 
 
 📂 Project Structure
 
-laptop_price_predictor_p/ │── templates/ # HTML templates for web app
+laptop_price_predictor_s/ │── templates/ # HTML templates for web app
 │── app.py # Flask web application
 │── df.pkl # Preprocessed dataset
 │── laptop_data.csv # Raw dataset with laptop specifications and prices
@@ -27,7 +27,7 @@ laptop_price_predictor_p/ │── templates/ # HTML templates for web app
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/MasterSailor10/laptop_price_predictor_p.git cd laptop_price_predictor_p
+git clone https://github.com/MasterSailor10/laptop_price_predictor_s.git cd laptop_price_predictor_s
 
 2️⃣ Create & Activate Virtual Environment (Optional but Recommended)
 
